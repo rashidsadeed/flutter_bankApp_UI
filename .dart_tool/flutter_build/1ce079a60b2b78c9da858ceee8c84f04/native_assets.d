@@ -1,0 +1,1 @@
+ /home/mr-nobody/StudioProjects/bank_ui/.dart_tool/flutter_build/1ce079a60b2b78c9da858ceee8c84f04/native_assets.yaml: 
